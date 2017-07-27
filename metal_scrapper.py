@@ -49,8 +49,7 @@ def iterate_lyrics(songs):
 
 
 def iterate_bands(songs):
-    '''Iterate over returned song matches. If the lyrics are different than\
-    "(lyrics not available)" then save them.'''
+    '''Iterate over returned bandmatches.'''
     total_bands = []
     for song in songs:
         song=song[0]
@@ -62,8 +61,7 @@ def iterate_bands(songs):
 
 
 def iterate_songs(songs):
-    '''Iterate over returned song matches. If the lyrics are different than\
-    "(lyrics not available)" then save them.'''
+    '''Iterate over returned song matches. '''
     total_names = []
     for song in songs:
         song_title = song[3]
@@ -72,6 +70,7 @@ def iterate_songs(songs):
 
 
 def get_all_bands(genre="black metal", band_name=""):
+    ''' iterate over all results pages'''
     # songs_data = get_songs_data(band_name, song_title)
     all = []
     i = 0
@@ -163,22 +162,6 @@ def scrap_songs(bands=[], filename="black_metal_songs.txt", genre="black metal")
                     pass
     print "scrapped " + str(len(songs)) + " song names from " + str(len(bands)) + " bands"
     return songs
-
-
-def get_song_names_from_lyrics(lyrics_dict):
-    song_names = lyrics.keys()
-    with open("black_metal_songs", "w") as f:
-        for song in song_names:
-            song = song.lower().replace("live", "").replace("cover",
-                                                            "").replace("intro",
-                                                                        "").replace(
-                "outro", "").replace("(", "").replace(")", "").replace("-", "")
-            try:
-                if song != "":
-                    f.write(song + "\n")
-            except:
-                continue
-    return song_names
 
 
 if __name__ == '__main__':
