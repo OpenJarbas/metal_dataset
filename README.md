@@ -1,6 +1,6 @@
 # METAL data
 
-scrapped info form metal-archives
+scrapped info from metal-archives
 
 no duplicates, no filtering of any kind except genre
 
@@ -16,6 +16,8 @@ song names and lyrics are scrapped for each scrapped band name
 # reading
 
 personal use case is to play with char-rnns / char-RBMs / MarkovChains
+
+[Metal-Archives](http://metal-archives.com/)
 
 [Char-RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
