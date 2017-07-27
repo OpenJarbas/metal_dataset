@@ -21,6 +21,6 @@ personal use case is to play with char-rnns / char-RBMs / MarkovChains
 
 [Char-RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-[Char-BRM](https://colinmorris.github.io/blog/dreaming-rbms)
+[Char-RBM](https://colinmorris.github.io/blog/dreaming-rbms)
 
 [Markov-Chain Metal](http://www.degeneratestate.org/posts/2016/Sep/12/heavy-metal-and-natural-language-processing-part-2/)
