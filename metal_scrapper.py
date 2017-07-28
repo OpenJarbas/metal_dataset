@@ -194,10 +194,18 @@ def save_dict(filename, dict):
                 pass
 
 if __name__ == '__main__':
-    genre = "black metal"
-    filename = "black_metal_bands.txt"
-    bands = scrap_bands(genre=genre, filename=filename)
-    filename = "black_metal_songs.txt"
-    song_names = scrap_songs(bands=bands, genre=genre, filename=filename)
-    filename = "black_metal_lyrics.txt"
-    lyrics = scrap_lyrics(bands=bands, genre=genre, filename=filename)
+    genres = ["black", "death", "stoner", "industrial", "experimental",
+              "pagan", "gothic", "grindcore", "groove", "heavy", "metalcore",
+              "power", "progressive", "speed", "symphonic", "thrash", "folk",
+              "viking", "avant-garde", "doom", "sludge", "deathcore",
+              "electronic"]
+    for genre in genres:
+        print "Scrapping " + genre + " band names"
+        filename = genre + "_metal_bands.txt"
+        bands = scrap_bands(genre=genre, filename=filename)
+        print "Scrapping " + genre + " song names"
+        filename = genre + "_metal_songs.txt"
+        song_names = scrap_songs(bands=bands, genre=genre, filename=filename)
+        print "Scrapping " + genre + " song lyrics"
+        filename = genre + "_metal_lyrics.txt"
+        lyrics = scrap_lyrics(bands=bands, genre=genre, filename=filename)
