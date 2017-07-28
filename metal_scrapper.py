@@ -94,7 +94,7 @@ def scrap_bands(filename="black_metal_bands.txt", genre="black metal"):
         with open(filename, "r") as f:
             bands = f.readlines()
     except:
-        bands = get_all_bands()
+        bands = get_all_bands(genre)
         save_list(filename, bands)
     print "scrapped", len(bands), "band names"
     return bands
@@ -108,7 +108,7 @@ def scrap_lyrics(bands=[], filename="black_metal_lyrics.txt", genre="black metal
     except:
         lyrics = {}
         if not len(bands):
-            bands = scrap_bands()
+            bands = scrap_bands(genre=genre)
         i = 0
         for band in bands:
             try:
@@ -139,7 +139,7 @@ def scrap_songs(bands=[], filename="black_metal_songs.txt", genre="black metal")
     except:
         songs = []
         if not len(bands):
-            bands = scrap_bands()
+            bands = scrap_bands(genre=genre)
         i = len(bands)
         for band in bands:
             i -= 1
