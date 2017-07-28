@@ -9,7 +9,7 @@ song names and lyrics are scrapped for each scrapped band name
 # black metal
 
         Names: 27418 band names
-        Song names: WIP
+        Songs: 549442 song names
         Lyrics: WIP
 
 

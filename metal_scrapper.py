@@ -118,7 +118,7 @@ def scrap_lyrics(bands=[], filename="black_metal_lyrics.txt", genre="black metal
                     print "scrapped: " + str(len(lyrics)) + " from: " + band
             except:
                 pass
-            if len(i) % 100 == 0:
+            if i % 100 == 0:
                 save_dict(filename, lyrics)
             i += 1
         with open(filename, "w") as f:
