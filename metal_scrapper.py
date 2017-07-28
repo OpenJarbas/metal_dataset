@@ -49,7 +49,8 @@ def iterate_lyrics(songs):
 
 
 def iterate_bands(songs):
-    '''Iterate over returned bandmatches.'''
+    '''Iterate over returned song matches. If the lyrics are different than\
+    "(lyrics not available)" then save them.'''
     total_bands = []
     for song in songs:
         song=song[0]
@@ -61,7 +62,8 @@ def iterate_bands(songs):
 
 
 def iterate_songs(songs):
-    '''Iterate over returned song matches. '''
+    '''Iterate over returned song matches. If the lyrics are different than\
+    "(lyrics not available)" then save them.'''
     total_names = []
     for song in songs:
         song_title = song[3]
@@ -70,7 +72,6 @@ def iterate_songs(songs):
 
 
 def get_all_bands(genre="black metal", band_name=""):
-    ''' iterate over all results pages'''
     # songs_data = get_songs_data(band_name, song_title)
     all = []
     i = 0
@@ -80,12 +81,10 @@ def get_all_bands(genre="black metal", band_name=""):
     while not end:
         all.extend(iterate_bands(bands))
         bands, num = get_bands_data(band_name, genre, i)
-        print len(all)
         if i + 200 > total:
             end = True
         else:
             i += 200
-        print i
     return all
 
 
@@ -96,12 +95,7 @@ def scrap_bands(filename="black_metal_bands.txt", genre="black metal"):
             bands = f.readlines()
     except:
         bands = get_all_bands()
-        with open(filename, "w") as f:
-            for band in bands:
-                try:
-                    f.write(band+"\n")
-                except:
-                    continue
+        save_list(filename, bands)
     print "scrapped", len(bands), "band names"
     return bands
 
@@ -115,14 +109,18 @@ def scrap_lyrics(bands=[], filename="black_metal_lyrics.txt", genre="black metal
         lyrics = {}
         if not len(bands):
             bands = scrap_bands()
+        i = 0
         for band in bands:
             try:
                 songs_data = get_songs_data(band)
                 if len(songs_data):
                     lyrics.update(iterate_lyrics(songs_data))
-                    print len(lyrics)
+                    print "scrapped: " + str(len(lyrics)) + " from: " + band
             except:
-                continue
+                pass
+            if len(i) % 100 == 0:
+                save_dict(filename, lyrics)
+            i += 1
         with open(filename, "w") as f:
             for lyric in lyrics:
                 try:
@@ -154,15 +152,46 @@ def scrap_songs(bands=[], filename="black_metal_songs.txt", genre="black metal")
                     print "total songs: " + str(len(songs)), "bands missing: " + str(i)
             except:
                 pass
-        with open(filename, "w") as f:
-            for song in songs:
-                try:
-                    f.writelines(songs[song])
-                except:
-                    pass
+            # save every 50 bands
+            if i % 50 == 0:
+                save_list(filename, songs)
+        save_list(filename, songs)
     print "scrapped " + str(len(songs)) + " song names from " + str(len(bands)) + " bands"
     return songs
 
+
+def get_song_names_from_lyrics(lyrics_dict):
+    song_names = lyrics.keys()
+    with open("black_metal_songs", "w") as f:
+        for song in song_names:
+            song = song.lower().replace("live", "").replace("cover",
+                                                            "").replace("intro",
+                                                                        "").replace(
+                "outro", "").replace("(", "").replace(")", "").replace("-", "")
+            try:
+                if song != "":
+                    f.write(song + "\n")
+            except:
+                continue
+    return song_names
+
+
+def save_list(filename, list):
+    with open(filename, "w") as f:
+        for item in list:
+            try:
+                f.write(item + "\n")
+            except:
+                pass
+
+
+def save_dict(filename, dict):
+    with open(filename, "w") as f:
+        for item in dict:
+            try:
+                f.writelines(dict[item])
+            except:
+                pass
 
 if __name__ == '__main__':
     genre = "black metal"
