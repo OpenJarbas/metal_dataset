@@ -1,0 +1,849 @@
+Ancalagon
+Ancient Ritual
+Andaja
+Ars Goetia
+Atavicus
+Azathoth
+Beyond Kingdom of Time
+Buchonia
+Carpatica
+Delirium
+Donnerhain
+Durothar
+Dweorgesblod
+Elfsword
+Fjoelnir
+Futhark
+Gammadion
+Garmenhord
+Gates of Argonath
+Grimburg
+Grimnir
+Haistan
+Hathunith
+Helfahrt
+Helgrindur
+Helritt
+Hordak
+Hunaz
+Iberian Wolves
+Immortalis
+Isengrin
+Juodvarnis
+Kaltakustik
+Kaltes
+Kel Drakkars
+Knaat
+Lechia
+Maeotis
+Mirkhall
+Nachtzehrer
+Narsil
+Nastrandir
+Nebelheim
+Nifalis
+Nocturnal Raven
+Nydvind
+Oakenshield
+Panychida
+PD SS Totenkopf
+Ravenlord
+Retra
+Riger
+Sacrifice Slaughtered Jesus
+Saxnot
+Schrywoud
+Secundo Flumine
+Skjaldar
+Sorrow Filled
+Stworz
+Svafnir
+Svardenvyrd
+Svarta Faran
+The Wolves of Avalon
+U.L.V.
+Uller
+User Ne
+Valgaldar
+Vento Negro
+Volos
+Vorgrum
+Where Sadness Reigns
+Wizun
+WolfSword
+XIV Dark Centuries
+Zentralrat der Guten
+Zuarasiz
+Aaskereia
+Absurd
+Abyssus
+Admarsior
+Adraste
+Advaita
+Aegrum
+Age of Thor
+Agnikrit
+Ahnenkult
+Akuma
+Alatyr
+Aldaaron
+Aldrahn
+Algiz
+Ancestors Blood
+Ancestral
+Ancestrum
+Ancient Warrior
+Andesgard
+Angur
+Anthropolatri
+Anwariad
+Apraxia
+Archandrja
+Aridnyk
+Arise from Ashes
+Arkh'aam
+Armagothrun
+Arth
+Arvisura
+Asatru
+Asbath Oculta
+Ases
+Ashaena
+Asken
+Askrinn
+Askuror
+Asphodeles
+Assur
+Azagatel
+Azel's Mountain
+Bacchia Neraida
+Bagatur
+Barbarian Warriors in Search of Wisdom
+Bastarth
+Bathuel
+Beorn's Hall
+Berserk
+Bilskirnir
+Blackopathy
+Cainian Legion
+Camazotz
+Carcharoth
+Caruos
+Celtefog
+Celtic Blood
+Centuries of Cruel Slaying
+Cernunn
+Chors
+Circle of Beings
+Clamor Silvae
+Concubia Nocte
+Creature
+Crnobog
+Crown of Fallen Heroes
+Crux Dissimulata
+Culto Nocturno
+Cyhiriaeth
+Daedalion
+Dark Endless
+Dark Inquisition
+Dark Seal
+Dark Sin
+Darkness Is My Pride
+Darmer
+Death of Folk
+Demon in Veils
+Diaokhi
+Division Hagal
+Djur
+Drakkar Snekkja
+Drakonian Age
+Draugnim
+Drestarata
+Drunar
+Drutentus
+Dryad
+Eikthyrnir
+Eternal Violence
+Fagyhamu
+Fimbulvet
+Fimbulvinter
+Flammersjel
+Florestas Negras
+Foghorn
+Fogwhisper
+Ancalagon
+Ancient Ritual
+Andaja
+Ars Goetia
+Atavicus
+Azathoth
+Beyond Kingdom of Time
+Buchonia
+Carpatica
+Delirium
+Donnerhain
+Durothar
+Dweorgesblod
+Elfsword
+Fjoelnir
+Futhark
+Gammadion
+Garmenhord
+Gates of Argonath
+Grimburg
+Grimnir
+Haistan
+Hathunith
+Helfahrt
+Helgrindur
+Helritt
+Hordak
+Hunaz
+Iberian Wolves
+Immortalis
+Isengrin
+Juodvarnis
+Kaltakustik
+Kaltes
+Kel Drakkars
+Knaat
+Lechia
+Maeotis
+Mirkhall
+Nachtzehrer
+Narsil
+Nastrandir
+Nebelheim
+Nifalis
+Nocturnal Raven
+Nydvind
+Oakenshield
+Panychida
+PD SS Totenkopf
+Ravenlord
+Retra
+Riger
+Sacrifice Slaughtered Jesus
+Saxnot
+Schrywoud
+Secundo Flumine
+Skjaldar
+Sorrow Filled
+Stworz
+Svafnir
+Svardenvyrd
+Svarta Faran
+The Wolves of Avalon
+U.L.V.
+Uller
+User Ne
+Valgaldar
+Vento Negro
+Volos
+Vorgrum
+Where Sadness Reigns
+Wizun
+WolfSword
+XIV Dark Centuries
+Zentralrat der Guten
+Zuarasiz
+Aaskereia
+Absurd
+Abyssus
+Admarsior
+Adraste
+Advaita
+Aegrum
+Age of Thor
+Agnikrit
+Ahnenkult
+Akuma
+Alatyr
+Aldaaron
+Aldrahn
+Algiz
+Ancestors Blood
+Ancestral
+Ancestrum
+Ancient Warrior
+Andesgard
+Angur
+Anthropolatri
+Anwariad
+Apraxia
+Archandrja
+Aridnyk
+Arise from Ashes
+Arkh'aam
+Armagothrun
+Arth
+Arvisura
+Asatru
+Asbath Oculta
+Ases
+Ashaena
+Asken
+Askrinn
+Askuror
+Asphodeles
+Assur
+Azagatel
+Azel's Mountain
+Bacchia Neraida
+Bagatur
+Barbarian Warriors in Search of Wisdom
+Bastarth
+Bathuel
+Beorn's Hall
+Berserk
+Bilskirnir
+Blackopathy
+Cainian Legion
+Camazotz
+Carcharoth
+Caruos
+Celtefog
+Celtic Blood
+Centuries of Cruel Slaying
+Cernunn
+Chors
+Circle of Beings
+Clamor Silvae
+Concubia Nocte
+Creature
+Crnobog
+Crown of Fallen Heroes
+Crux Dissimulata
+Culto Nocturno
+Cyhiriaeth
+Daedalion
+Dark Endless
+Dark Inquisition
+Dark Seal
+Dark Sin
+Darkness Is My Pride
+Darmer
+Death of Folk
+Demon in Veils
+Diaokhi
+Division Hagal
+Djur
+Drakkar Snekkja
+Drakonian Age
+Draugnim
+Drestarata
+Drunar
+Drutentus
+Dryad
+Eikthyrnir
+Eternal Violence
+Fagyhamu
+Fimbulvet
+Fimbulvinter
+Flammersjel
+Florestas Negras
+Foghorn
+Fogwhisper
+Folge dem Wind
+Forhnost
+Fornostem
+Frijgard
+Frost Flame
+Gelap
+Geweih
+Gnipahellir
+Gods Tower
+Golfaron
+Great Horn
+Griffar
+Grom
+Gungnir
+Harrus
+Hasskommando
+Havukruunu
+Hegemoon
+Heid
+Heidentum
+Heimar
+Heimdallr
+Heimdalls Wacht
+Heimsgard
+Hel
+Helgrid
+Hellkult
+Helrunar
+Hergorn
+Hesperia
+High Prophet
+Hindvir
+Hithlum
+Hlidskjalf
+Horg
+Horn
+Hremmgiefstol
+Hugi
+Hymnorg
+Icebound
+Ilbeltz
+Ildra
+Infamis
+Inferi Nebula Mortuum
+Infestum
+Infinityum
+Interior Wrath
+Itnuveth
+Jarnvidr
+Jarovit
+Jotungheim
+K'hara
+Kadath
+Kampfar
+Karamah
+Karpathia
+Kenaz
+Kharsak Kurra
+Kraina Wiecznego Mrozu
+Krajiny Hmly
+Kroda
+Kurgan
+L'Edelweiss Noir
+Landvaettir
+Loch Ness
+Lupus Noctem
+Lux Divina
+Machiavel
+Makam
+Many Moons Ago
+Mean Geimhridh
+Menhir
+Menhyr
+Miasthenia
+Midnight
+Minas Morgul
+Modraniht
+Mogorva
+Moonrise
+Morana
+Morbid Prelude
+Mordaehoth
+Morgen Feuer
+Morkal
+Morok
+Mortal Adullouis
+Muspilli
+Muyzkkubun
+Mystical Fullmoon
+Nan Dungortheb
+Natan
+Nature's Elements
+Navjarmaahr
+Navrog
+Neasit
+Nebelkrieger
+Necas
+Necrofeast
+Nematon
+Nemura
+Nidfjoll
+Nidhug
+Noctarabulant
+Nocturnal Voices
+Nomades
+Nordawn
+Nordisches Blut
+Norgard
+Normannorum
+Northern Hate
+Notung
+Oakhelm
+Obscure Valley
+Odal
+Ogmias
+Ohron
+Omendark
+Oroles
+Orthanc
+Orthank
+Oyhra
+Pagan Blood
+Pagan Forest
+Pagan Spirit
+Pagan Throne
+Paganfuries
+Paganland
+Pagapu
+Pandhowo
+Pasun
+Peordh
+Peorth
+Perfectlands
+Petrichorus
+Phallus Filosofiam
+Poccolus
+Raben Nacht
+Rabensumpf
+Raggradarh
+Ragor
+Raud-Ants
+Raven Dark
+Rhune
+Rhymes of Destruction
+Sacrilegio
+Sacrilegium
+Sagn
+Sargatanas
+Sarkel
+Sarmak
+Schwarzwaldheiden
+Senons
+Serpent Lord
+Seth
+Sigma Draconis
+Signum Triste
+Singgasana
+Singhasari
+Skavendark
+Skogyr
+Slavland
+Sola Svartnar
+Soleil Noir
+Sondor
+Speculum Mortis
+Sphera Noctis
+Sterkvind
+Stories of a Dark Soul
+StormKnights
+Strzygon
+Sturmfolk
+Sus Scrofa
+Svartnatt
+Sverdkamp
+Symbel
+Taekaury
+Tapper
+Tarbatu
+Tarm
+Tatir
+Taunusheim
+Tharaphita
+Thorns of Evil
+Throne of Carrion
+Thunder
+Thurisaz
+Timor et Tremor
+Tiwaz
+Tomahawk Coatlicue
+Trogir
+Trollech
+Tumulus
+Tyranath
+Udainsakr
+Udun
+Ur Nord Germanisch
+Uranus
+Urku
+Urschrei
+Vad
+Vajrah
+Valfenda
+Valknacht
+Valknut
+Vallachia
+Vardlokkur
+Vargavinter
+Veles
+Vesna
+Viking from Norway
+Vinterforest
+Vinterskald
+Vinterskog
+Vonthor
+Vrani Volosa
+Walpurgi
+Walsung
+Wangelen
+Warhagan
+Werewolf
+Wiatyk
+Widrir
+Wind
+Wind of Death
+Wintarnaht
+Winter Sorrow
+Winterfallen
+Winterfront
+Wizard Mark
+Wolfsbaum
+Wolvesguard
+Woodtemple
+Wotan Warrior
+Wreterdess
+Wunjo
+Ymir
+Yum Kimil
+Zgard
+Zmrok
+Zwietracht
+Ad Nutum
+Addergebroed
+Aezh Morvarc'h
+Ahnengrab
+Aiumeen Basoa
+Alma Madre
+Angrbada
+Asaviga
+Asgerahnum
+Asmodi
+Atratus
+Atrox Nex
+Aurost
+Barbarous Pomerania
+Barbarus
+Battleroar
+Belzagor
+Blakagir
+Branstock
+Butterfly Temple
+Caleuche
+Colosalist
+Corpus Mutilum
+Cross of Iron
+Cruelty's Heart
+Cult of Blood Winter
+Cult of Frey
+D.C.D.
+Daemon
+Dothbogria
+Drunemeton
+Dvergir
+Dysthemia
+Ecliptum
+Eisthron
+Elphame
+Epic Sturm
+Fenrir
+Finsterhain
+Firtan
+Fjordfader
+Flammensturm
+Forlorn Tales
+Frigoris
+Frosthold
+Frozen Grave
+Funeral Moon
+Gaedhil
+Garmskrik
+Gedwolmann
+Germanitas
+Glaser
+Gorjeo Seglar
+Grimtotem
+Ha Lela
+Hag
+Harg
+Harmasar
+Haspyd
+Hedninger
+Heidenzorn
+Heimat
+Hellewoud
+Hellharmony
+Helm of Awe
+Helroth
+Herne
+Herodez
+Hexadar
+Hlidskialf
+Ildverden
+Ilfirin
+Iron Woods
+Ironbird
+Isenburg
+Ka Gaia An
+Kagan
+Kallaikoi
+Kandaon
+Kawir
+Kerbenok
+Kriegerwolfe
+Krigavar
+Legenda
+Managarm
+Mileth
+Misantropiae
+Morgawr
+Mormar
+Mornir
+Mother Thule
+Mourning Ends
+Munin
+Mysteria Mortis
+Mysterial
+Nemesis
+Nemossos
+Nican Tlaca
+Nifelhel
+Noltem
+NordanVindar
+Nordfrost
+Northern Fear
+Northrend
+Nyja
+Oak, Ash & Thorn
+Obereg
+Obscurity
+Odraedir
+Old Scythia
+Ophidian Forest
+Order of the White Hand
+Orizen
+Pagan Flame
+Pagan Warrior 88
+Perkos
+Phenomistik
+Pripegal
+Ragnarok
+Ramchat
+Ravenhelm
+Rohirrim
+Rose Scream
+Ruins of Faith
+Runic
+Sahsnotas
+Seer of Ages
+Shadowings
+Silence Within
+Siluria
+Sirin
+Sjuk
+Skjaldborg
+Slagmarken
+Slavic Rebirth
+Sonnenbrand
+Sovitus
+Stoermflood
+Stormstone
+Svafnirkult
+Swastica
+Teutates
+Theryn
+Theudho
+Thormesis
+Thronvolk
+Thyrgrim
+Torc
+Tuonela
+Unrest Fatalist
+Urt
+Valadir
+Vanaheim
+Vargskraft
+Velm
+Vineta
+Vitnir
+Vojstrau
+Voloh
+Vrankenvorde
+Waldschein
+Wanderer
+Wargamark
+Wergeld
+Winterwitch
+Witcharia
+Wodanaz
+Wolfchant
+Wolfingar
+Wolfmare
+Wolfsherz
+Wotanorden
+Yggr
+Znich
+Advocatus Diaboli
+Aganis
+Alatyr
+Alkonost
+Ancient Land
+Aparthate
+Argyrian
+Asenblut
+Asvynn
+Before God
+Black Serpent Sun
+Blencathra
+Bolero
+Brenn
+Briargh
+Cales
+Casus Belli
+Cerevisia
+Cernunnos
+CrystalMoors
+Czarnobog
+D.R.I.F.F.
+Dagmathe
+Deathna River
+Delenda Arcana
+Demoterion
+Des Nordens Trieb
+Dolina Cieni
+Doomgiver
+Drakwald
+Draugr
+Dreaming Soul
+Dub Buk
+Eisiger Wald
+Eisigwald
+Eiswerk
+Eldenhor
+Eldkraft
+Enialios
+Eternal Fire
+Ethereal Pandemonium
+Eudine Seythe
+Eviternity
+Festung Nebelburg
+Fimbulwinta
+Frekkr
+Fromhell
+Fyrnreich
+Gallows Beyond the Nightsky
+Gardarika
+Gernotshagen
+Giants of Stone
+Goat of Mendes
+Hellveto
+Heroic
+Hetumoger
+Himiltungl
+Hunok
+I, Lord Aveu
+Igric
+Imber
+Incursed
+Irdhing
+Irminsul
+Isenordal
+Kondaira
+Krigsvinter
+Kukulcan
+Land of Fog
+Laochra
+Macabre Omen
+Masseporz
+Medieval Overture
+Membrum Ruptum
+Midwynter
+Minjar
+Misterium
+Montuln
+Moonsorrow
+Muriver
+Mutuldzec
+Mystic Shadows
+Nar Mattaru
+Natural Spirit
+Neoheresy
+Nihilium
+Nocturnal Criptica
+Noituma
+None Valueless Art

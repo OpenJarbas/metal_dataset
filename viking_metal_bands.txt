@@ -1,0 +1,550 @@
+Aegir
+Ansgar
+Asathor
+Baptised in Ice
+Black Tears
+Bloodshed Walhalla
+Coldness
+Depth Melody
+Draugar
+Einherjer
+Elderich
+Fimbul
+Fimbulthier
+Finsternis
+Frostnatt
+Funeral Oath
+Greigh
+Grimhorde
+Hagalaz
+Hagall
+Hedenskrig
+Hel
+Hengran Trevivan
+Hlidskjalf
+Hordes of Loki
+Hroptatyr
+Karkav
+Konungar
+Lost Legacy
+Misthelm
+Mortuorium
+Myth
+Mythos Nord
+Nebelhorn
+Nidhug
+Nomans Land
+Nord
+Norden
+Northern Midvinter
+Northsong
+Odhinn
+Older North
+Orna Annon
+Pitkan Matkan
+Runenthor
+Shallow Intentions
+Shield Breaker
+Sigfadhir
+Skegg
+Sovengar
+Space Vikings
+Thorvald
+Thrym
+Tilaris
+Valgrind
+Valtyr
+Vanaheim
+Vergeltung
+Viniir
+Vinter
+Warlord
+Welter
+Winter Children
+Winter's Wake
+Ysorpel
+Aesbard
+Ancient Light
+Black Fog
+Crifotoure Satanarda
+Der Henker
+Drakkar Snekkja
+Einher Skald
+Frostblaze
+Frostkorp
+Griftefrid
+Grimnorth
+Heathen Foray
+Horde Thor
+Iphicrate
+Lindisfarne
+Men Enter Tavern
+Menosgada
+Skelfir
+Skidbladnir
+Sleipnir
+Sons of Musspellheim
+Stirnagard
+Sturmgewalt
+Thrudvangar
+Thundra
+Ulvhedin
+Varganath
+Vikingore
+Wadgelmir
+Warcry
+Ymer Land
+Ad Honorem
+Alfar
+Alvheim
+Anaon Koll
+Andhrimnir
+Angrbada
+Antiquus Scriptum
+Apothecy
+Arthanus
+Asaviga
+Asgard
+Axut
+Baldrs Draumar
+Battlehorn
+Black Unicorn
+Blodkarsk
+Blodravn
+Bombensturm
+Borgarholt
+Born of Chaos
+Citadel
+Crom
+Death Enthroned
+Demonaz
+Den Nordiske Sjel
+Dreyri
+Dusius
+Eclypse
+Eight Legged Horse
+Elexorien
+Encorion
+Eugenik
+Everfrost
+Feigd
+Fenris
+Feskarn
+Fimbultyr
+Fjordfader
+Flames of Midgard
+Flaygoth
+Folkodia
+Forefather
+Forest King
+Forhatt
+Forlorn Tales
+Framtyr
+Frosthold
+Frostmoon
+Frozen Shield
+Gjallarhorn
+Gloomy Betrayal
+Greenland
+Grimner
+Hades
+Heathen Desire
+Hedninger
+Heidevolk
+Heidra
+Helheim
+Heorot
+Hildr Valkyrie
+Himinbjorg
+Hymengaard
+Icethrone
+Interregnum
+Isenmor
+Iuramentum
+Kaarnekorpi
+Kaatarakt
+Kentaur
+Knabulu
+Kylfingar
+Lords of the Mountain
+Midgaard
+Miellnir
+Mithotyn
+Mourning Ends
+Myrkvedr
+Nachtfalke
+Neravendetta
+Nightfrost
+Non Serviam
+Nord Ulv
+Nordavind
+Nordverg
+Norrsken
+Aegir
+Ansgar
+Asathor
+Baptised in Ice
+Black Tears
+Bloodshed Walhalla
+Coldness
+Depth Melody
+Draugar
+Einherjer
+Elderich
+Fimbul
+Fimbulthier
+Finsternis
+Frostnatt
+Funeral Oath
+Greigh
+Grimhorde
+Hagalaz
+Hagall
+Hedenskrig
+Hel
+Hengran Trevivan
+Hlidskjalf
+Hordes of Loki
+Hroptatyr
+Karkav
+Konungar
+Lost Legacy
+Misthelm
+Mortuorium
+Myth
+Mythos Nord
+Nebelhorn
+Nidhug
+Nomans Land
+Nord
+Norden
+Northern Midvinter
+Northsong
+Odhinn
+Older North
+Orna Annon
+Pitkan Matkan
+Runenthor
+Shallow Intentions
+Shield Breaker
+Sigfadhir
+Skegg
+Sovengar
+Space Vikings
+Thorvald
+Thrym
+Tilaris
+Valgrind
+Valtyr
+Vanaheim
+Vergeltung
+Viniir
+Vinter
+Warlord
+Welter
+Winter Children
+Winter's Wake
+Ysorpel
+Aesbard
+Ancient Light
+Black Fog
+Crifotoure Satanarda
+Der Henker
+Drakkar Snekkja
+Einher Skald
+Frostblaze
+Frostkorp
+Griftefrid
+Grimnorth
+Heathen Foray
+Horde Thor
+Iphicrate
+Lindisfarne
+Men Enter Tavern
+Menosgada
+Skelfir
+Skidbladnir
+Sleipnir
+Sons of Musspellheim
+Stirnagard
+Sturmgewalt
+Thrudvangar
+Thundra
+Ulvhedin
+Varganath
+Vikingore
+Wadgelmir
+Warcry
+Ymer Land
+Ad Honorem
+Alfar
+Alvheim
+Anaon Koll
+Andhrimnir
+Angrbada
+Antiquus Scriptum
+Apothecy
+Arthanus
+Asaviga
+Asgard
+Axut
+Baldrs Draumar
+Battlehorn
+Black Unicorn
+Blodkarsk
+Blodravn
+Bombensturm
+Borgarholt
+Born of Chaos
+Citadel
+Crom
+Death Enthroned
+Demonaz
+Den Nordiske Sjel
+Dreyri
+Dusius
+Eclypse
+Eight Legged Horse
+Elexorien
+Encorion
+Eugenik
+Everfrost
+Feigd
+Fenris
+Feskarn
+Fimbultyr
+Fjordfader
+Flames of Midgard
+Flaygoth
+Folkodia
+Forefather
+Forest King
+Forhatt
+Forlorn Tales
+Framtyr
+Frosthold
+Frostmoon
+Frozen Shield
+Gjallarhorn
+Gloomy Betrayal
+Greenland
+Grimner
+Hades
+Heathen Desire
+Hedninger
+Heidevolk
+Heidra
+Helheim
+Heorot
+Hildr Valkyrie
+Himinbjorg
+Hymengaard
+Icethrone
+Interregnum
+Isenmor
+Iuramentum
+Kaarnekorpi
+Kaatarakt
+Kentaur
+Knabulu
+Kylfingar
+Lords of the Mountain
+Midgaard
+Miellnir
+Mithotyn
+Mourning Ends
+Myrkvedr
+Nachtfalke
+Neravendetta
+Nightfrost
+Non Serviam
+Nord Ulv
+Nordavind
+Nordverg
+Norrsken
+Northern Lords
+Northern Storm
+Oakenshield
+Obscurity
+Odenwrath
+Ordo Natum Bamay Crom
+Organa
+Other Gods
+Rose Scream
+Saagar
+Silence Within
+Singara
+Skidbladnir
+Skjaldborg
+Skogshallen
+Skorczed Bifrost
+Skull Flame
+Slartibartfass
+Son of the Northstar
+Storm
+Svidgar
+The Dark Arts
+Thore
+Thorondir
+Thurs
+Thyrfing
+Trollhammer
+Trymheim
+Uburen
+Ulfar
+Ulvnatt
+Valaskjalf
+Vampiregaze
+Vanaheim
+Vanir
+Varang Nord
+Varden Fall
+Vigrid
+Vindland
+Vinterblot
+Voluspaa
+Vrankenvorde
+Wanderer
+War Hammer
+Warshout
+Wergeld
+Windrider
+Winter Axe
+Winter Magik
+WinterLord
+Woden
+Wodenson
+Wolves of Hate
+Wotanskrieger
+Ymir's Blood
+Aasfresser
+Abyss
+Ad Mortis Nostrae
+Agabahan
+Allvater
+Alphayn
+Arkillery
+Arvinger
+Asynja
+Barbarians
+Black Messiah
+Bloodaxe
+Borealis
+Borknagar
+Carnivorous Forest
+Citizen:Hell
+Crimfall
+Dagaz
+Defenders of Tanelorn
+Diadem
+Down the Drain
+Drep
+Dybbuk
+Eadwulf
+Elk Veri
+Empire
+Encased
+Enslaved
+Equilibrium
+Evangeli
+Eye of Odin
+Fafnir
+Falkenbach
+Fangor
+Folkearth
+Forgotten North
+Forlorn
+Forostar
+Furthest Shore
+Halgadom
+Hamarsheimt
+Hammer Horde
+Helguard
+Herjalf
+Heulend Horn
+Horrizon
+Hugin Munin
+Hunterwolf and Zornkind
+Immorgon
+Incordia
+Incursed
+Irminsul
+King of Asgard
+Kritter
+Kromlek
+Last Legion
+Legacy of Vydar
+Lex Talion
+Lunar Eclipse
+Magog
+Melther
+Midgard
+Minjar
+Misanthropic Oath
+Mistur
+Mors Osculi
+Musspellheim
+Myrkgrav
+Mystic Shadows
+Nattsmyg
+Nifrost
+None Valueless Art
+Norditual
+Norothin
+Northern Mass
+Oaken Throne
+Oden's Raven
+Pagalguenna
+Pagan Legacy
+Prophanity
+Psyclopus
+Ravencry
+Ravenlord
+Romuvos
+Rotovathor
+Sadis
+Seawolves
+Sigtyr
+Skoll
+Spectral
+Stellar Winter
+Surturs Lohe
+The Arson
+The Conquering
+The Vala
+Thiasos Dionysos
+Thy Wicked
+Trollgasm
+Twin Obscenity
+Ulfdallir
+Ulfsark
+Ulveheim
+Valhalore
+Vargskog
+Verfallen
+Voice of Midnight
+Volsung
+Wandersword
+Windir
+Winterdome
+Yggdrassil
+Ereb Altor
+Odin's Court
+Baerenzorn
+Bathory
+Defeat
+Duskmortym
+Fyrdung
+Grendel
+Indomita
+Lost Shade
+Mare Frigoris
+Myrkvar
+Oskoreien
+Perkele
+Skadika
+Skilfingar
+Slechtvalk
+Till the End
+Valensorow
+Vindkaldr
