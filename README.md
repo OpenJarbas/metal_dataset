@@ -1,6 +1,6 @@
 # METAL dataset
 
-scrapped info from metal-archives
+scrapped info from [Metal-Archives](http://metal-archives.com/)
 
 
 ![](./metal.jpg)
@@ -154,8 +154,6 @@ song names and lyrics are scrapped for each scrapped band name
 # Inspiration
 
 The inspiration to gather this dataset came from the following links
-
-[Metal-Archives](http://metal-archives.com/)
 
 [Char-RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
